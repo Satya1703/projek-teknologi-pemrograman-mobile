@@ -1,6 +1,6 @@
 # kamus
 
-A new Flutter project.
+English Dictionary with owlAPI
 
 ## Getting Started
 
